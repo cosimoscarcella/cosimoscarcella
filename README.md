@@ -48,7 +48,7 @@
 <h2>🔗 Connect with me</h2>
 
 <p>
-    <a href="https://twitter.com/scarcellacosimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/cosimo-scarcella-24999675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cosimo-scarcella-24999675" height="30" width="40"/></a>
-    <a href="/https://www.cosimoscarcella.com/feed/atom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.cosimoscarcella.com/feed/atom/" height="30" width="40" /></a>
+    <a href="https://twitter.com/scarcellacosimo" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-twitter.svg" alt="twitter" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/cosimo-scarcella" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-linkedin.svg" alt="linkedin" height="30" width="40"/></a>
+    <a href="/https://www.cosimoscarcella.com/feed/atom/" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-rss.svg" alt="rss" height="30" width="40" /></a>
 </p>

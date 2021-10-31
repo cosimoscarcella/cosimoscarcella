@@ -48,6 +48,10 @@
 <h2>📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Install Git on Windows](https://www.cosimoscarcella.com/install-git-on-windows/)
+- [Install WordPress and WP-CLI using Docker Compose](https://www.cosimoscarcella.com/install-wordpress-and-wp-cli-using-docker-compose/)
+- [How to Beautify your GitHub Profile](https://www.cosimoscarcella.com/stunning-github-profile/)
+- [Useful Git Configuration](https://www.cosimoscarcella.com/useful-git-configuration/)
 <!-- BLOG-POST-LIST:END -->
  
 <h2>🔗 Connect with me</h2>

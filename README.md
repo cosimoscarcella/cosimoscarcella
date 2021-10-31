@@ -40,7 +40,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/logo-mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<!-- <h2>✒️ Recent Posts</h2> -->
+<h2>✒️ Recent Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

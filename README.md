@@ -50,5 +50,5 @@
 <p>
     <a href="https://twitter.com/scarcellacosimo" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-twitter.svg" alt="twitter" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/cosimo-scarcella" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-linkedin.svg" alt="linkedin" height="30" width="40"/></a>
-    <a href="/https://www.cosimoscarcella.com/feed/atom/" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-rss.svg" alt="rss" height="30" width="40" /></a>
+    <a href="https://www.cosimoscarcella.com/feed/atom/" target="blank"><img src="https://github.com/cosimoscarcella/cosimoscarcella/raw/main/images/social-btn-rss.svg" alt="rss" height="30" width="40" /></a>
 </p>

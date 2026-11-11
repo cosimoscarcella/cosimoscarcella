@@ -5,10 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working for <a href="https://www.datalogic.com/">Datalogic S.p.A.</a>
-- 📝 I regularly write articles on <a href="https://www.cosimoscarcella.com">my blog</a>
 - 📫 How to reach me **cosimo.scarcella@gmail.com**
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cosimoscarcella&show_icons=true&locale=en" alt="git stats" /></p>
 
 <h2>🚀 Some Languages and Tools I Use</h2>
 

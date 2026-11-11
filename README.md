@@ -4,7 +4,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🔭 I’m currently working for <a href="https://www.ynap.com/">Yoox Net-A-Porter Group S.p.A.</a>
+- 🔭 I’m currently working for <a href="https://www.datalogic.com/">Datalogic S.p.A.</a>
 - 📝 I regularly write articles on <a href="https://www.cosimoscarcella.com">my blog</a>
 - 📫 How to reach me **cosimo.scarcella@gmail.com**
 
